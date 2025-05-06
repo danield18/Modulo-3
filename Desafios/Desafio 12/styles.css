@@ -44,10 +44,9 @@ p{
 section{
     box-shadow: 0 2px 8px 1px black;
     background-color: white;
-}
-article{
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    text-indent: 30px;
 }
 .parte3 > article,.parte6 > article {
     background-color: rgba(0, 0, 0, 0.3);
@@ -55,13 +54,11 @@ article{
 }
 .parte1{
     min-height: 400px;
-    padding: 20px;
     font-weight: bold;
     align-content: center;
 }
 .parte3{
     min-height: 400px;
-    padding: 20px;
     font-weight: bold;
     align-content: center;
     background-image: url("imagens/background001.jpg");
@@ -73,13 +70,11 @@ article{
 }
 .parte4{
     min-height: 400px;
-    padding: 20px;
     font-weight: bold;
     align-content: center;
 }
 .parte6{
     min-height: 400px;
-    padding: 20px;
     font-weight: bold;
     align-content: center;
     background-image: url("imagens/background002.jpg");
@@ -91,7 +86,6 @@ article{
 }
 .parte7{
     min-height: 400px;
-    padding: 20px;
     font-weight: bold;
     align-content: center;
 }
